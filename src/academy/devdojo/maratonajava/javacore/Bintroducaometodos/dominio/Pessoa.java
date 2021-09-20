@@ -17,8 +17,8 @@ public class Pessoa {
     }
 
     public void imprimi(){
-        System.out.println(this.nome);
-        System.out.println(this.idade);
+        System.out.println(getNome());
+        System.out.println(getIdade());
     }
 
     public String getNome(){
