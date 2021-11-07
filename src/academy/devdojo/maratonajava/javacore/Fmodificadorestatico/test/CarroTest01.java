@@ -2,6 +2,7 @@ package academy.devdojo.maratonajava.javacore.Fmodificadorestatico.test;
 
 import academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain.Carro;
 
+//Teste git após formatar o pc e colocar o SSD
 public class CarroTest01 {
     public static void main(String[] args) {
         Carro c1 = new Carro("BMW", 280);
